@@ -35,12 +35,12 @@
         ]
       },
       {
-        "tab": "API Documentation",
+        "tab": "REST API",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "Overview",
             "pages": [
-              "restapi/introduction"
+              "restapi/overview"
             ]
           },
           {
