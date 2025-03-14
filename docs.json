@@ -35,21 +35,92 @@
         ]
       },
       {
-        "tab": "API Reference",
+        "tab": "API Documentation",
         "groups": [
           {
             "group": "API Documentation",
             "pages": [
-              "api-reference/introduction"
+              "api/introduction"
             ]
           },
           {
-            "group": "Endpoint Examples",
+            "group": "System",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "api/system",
+              "api/uptime"
+            ]
+          },
+          {
+            "group": "Allowlist",
+            "pages": [
+              "api/allowlist/domain",
+              "api/allowlist/ip"
+            ]
+          },
+          {
+            "group": "Blocklist",
+            "pages": [
+              "api/blocklist/domains",
+              "api/blocklist/phones",
+              "api/blocklist/words"
+            ]
+          },
+          {
+            "group": "Gameserver",
+            "pages": [
+              "api/game/list",
+              "api/game/tag",
+              "api/game/id",
+              "api/game/tag/files",
+              "api/game/tag/addons",
+              "api/game/tag/mods",
+              "api/game/tag/addon/tag",
+              "api/game/tag/mod/tag",
+              "api/game/tag/import/tekbase",
+              "api/game/query"
+            ]
+          },
+          {
+            "group": "Voiceserver",
+            "pages": [
+              "api/voice/version",
+              "api/voice/query"
+            ]
+          },
+          {
+            "group": "Github",
+            "pages": [
+              "api/git/repo"
+            ]
+          },
+          {
+            "group": "Extension",
+            "pages": [
+              "api/extension/list",
+              "api/extension/cats",
+              "api/extension/id"
+            ]
+          },
+          {
+            "group": "TruckersMP",
+            "pages": [
+              "api/req/tmp/version",
+              "api/req/tmp/time",
+              "api/req/tmp/server",
+              "api/req/tmp/player",
+              "api/req/tmp/search"
+            ]
+          },
+          {
+            "group": "SSL-Scan",
+            "pages": [
+              "api/req/sslscan/domain"
+            ]
+          },
+          {
+            "group": "IP-Lookup",
+            "pages": [
+              "api/req/ip/iplookup"
             ]
           }
         ]
