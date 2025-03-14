@@ -40,87 +40,87 @@
           {
             "group": "API Documentation",
             "pages": [
-              "api/introduction"
+              "restapi/introduction"
             ]
           },
           {
             "group": "System",
             "pages": [
-              "api/system",
-              "api/uptime"
+              "restapi/system",
+              "restapi/uptime"
             ]
           },
           {
             "group": "Allowlist",
             "pages": [
-              "api/allowlist/domain",
-              "api/allowlist/ip"
+              "restapi/allowlist/domain",
+              "restapi/allowlist/ip"
             ]
           },
           {
             "group": "Blocklist",
             "pages": [
-              "api/blocklist/domains",
-              "api/blocklist/phones",
-              "api/blocklist/words"
+              "restapi/blocklist/domains",
+              "restapi/blocklist/phones",
+              "restapi/blocklist/words"
             ]
           },
           {
             "group": "Gameserver",
             "pages": [
-              "api/game/list",
-              "api/game/tag",
-              "api/game/id",
-              "api/game/tag/files",
-              "api/game/tag/addons",
-              "api/game/tag/mods",
-              "api/game/tag/addon/tag",
-              "api/game/tag/mod/tag",
-              "api/game/tag/import/tekbase",
-              "api/game/query"
+              "restapi/game/list",
+              "restapi/game/tag",
+              "restapi/game/id",
+              "restapi/game/tag/files",
+              "restapi/game/tag/addons",
+              "restapi/game/tag/mods",
+              "restapi/game/tag/addon/tag",
+              "restapi/game/tag/mod/tag",
+              "restapi/game/tag/import/tekbase",
+              "restapi/game/query"
             ]
           },
           {
             "group": "Voiceserver",
             "pages": [
-              "api/voice/version",
-              "api/voice/query"
+              "restapi/voice/version",
+              "restapi/voice/query"
             ]
           },
           {
             "group": "Github",
             "pages": [
-              "api/git/repo"
+              "restapi/git/repo"
             ]
           },
           {
             "group": "Extension",
             "pages": [
-              "api/extension/list",
-              "api/extension/cats",
-              "api/extension/id"
+              "restapi/extension/list",
+              "restapi/extension/cats",
+              "restapi/extension/id"
             ]
           },
           {
             "group": "TruckersMP",
             "pages": [
-              "api/req/tmp/version",
-              "api/req/tmp/time",
-              "api/req/tmp/server",
-              "api/req/tmp/player",
-              "api/req/tmp/search"
+              "restapi/req/tmp/version",
+              "restapi/req/tmp/time",
+              "restapi/req/tmp/server",
+              "restapi/req/tmp/player",
+              "restapi/req/tmp/search"
             ]
           },
           {
             "group": "SSL-Scan",
             "pages": [
-              "api/req/sslscan/domain"
+              "restapi/req/sslscan/domain"
             ]
           },
           {
             "group": "IP-Lookup",
             "pages": [
-              "api/req/ip/iplookup"
+              "restapi/req/ip/iplookup"
             ]
           }
         ]
