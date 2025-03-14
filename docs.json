@@ -1,6 +1,7 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "MindsDB",
+  "name": "celltek",
+  "theme": "venus",
   "logo": {
     "light": "/logo/light.svg",
     "dark": "/logo/dark.svg"
