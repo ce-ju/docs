@@ -8,6 +8,13 @@
     "dark": "#0D9373"
   },
   "favicon": "/favicon.svg",
+  "pages": [
+    {
+      "slug": "restapi",
+      "title": "REST API",
+      "openapi": "https://api.celltek.de/api-docs.json"
+    }
+  ],
   "navigation": {
     "dropdowns": [
       {
@@ -18,11 +25,7 @@
           {
             "group": "REST API",
             "pages": [
-              {
-                "slug": "restapi",
-                "title": "REST API",
-                "openapi": "https://api.celltek.de/api-docs.json"
-              }
+              "restapi"
             ]
           }
         ]
@@ -33,13 +36,6 @@
     "light": "/logo/light.svg",
     "dark": "/logo/dark.svg",
     "href": "https://mintlify.com"
-  },
-  "api": {
-    "mdx": {
-      "auth": {
-        "method": "bearer"
-      }
-    }
   },
   "navbar": {
     "links": [
