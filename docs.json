@@ -12,7 +12,7 @@
     {
       "slug": "restapi",
       "title": "REST API",
-      "openapi": "https://api.celltek.de/api-docs.json"
+      "openapi": "restapi/openapi.json"
     }
   ],
   "navigation": {
